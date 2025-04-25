@@ -65,7 +65,7 @@ folder -->
         <repository>
 
             <id>local-repo</id>
-            <url>file:///D:/my-local-maven-repo</url>
+            <url>file:///D:/my-local-maven-repo1</url>
 
         </repository>
     </distributionManagement>
