@@ -59,4 +59,14 @@ folder -->
         </plugins>
     </build>
 
+
+    <distributionManagement>
+
+        <repository>
+
+            <id>local-repo</id>
+            <url>file:///D:/my-local-maven-repo</url>
+
+        </repository>
+    </distributionManagement>
 </project>
